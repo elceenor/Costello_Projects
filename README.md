@@ -1,12 +1,28 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/elceenor/CostelloPortfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to my Portfolio Website.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+## Thesis: Fault Monitoring System for Wind Turbines
+
+## SumoBot
+
+
+## Can-Stacking Bot
+
+
+## PCB Design Project
+
+
+## PVC Scooter
+
+
+
+## Hobby: 3D Printing
+
+One 
+
+
 
 ```markdown
 Syntax highlighted code block
